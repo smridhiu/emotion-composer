@@ -5,7 +5,7 @@
 
 ---
 
-## 🧠 What It Does
+##  What It Does
 
 1. **Emotion Detection** – Captures an image (via webcam or upload) and detects the user's facial emotion using a Hugging Face model.
 2. **Music Generation** – Generates a custom melody reflecting the user's emotional state.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ AI Tools and Models Used
+## 🛠 AI Tools and Models Used
 
 | Feature               | AI Tool / Model                                             |
 |----------------------|-------------------------------------------------------------|
@@ -26,11 +26,23 @@
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### 🔁 Option 1: Run Locally with Python
+###  Option 1: Run Locally with Python
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/emotion-composer.git
    cd emotion-composer
+
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt
+
+3. **Run the app**:
+   ```bash
+   python app.py
+
+
+
+
